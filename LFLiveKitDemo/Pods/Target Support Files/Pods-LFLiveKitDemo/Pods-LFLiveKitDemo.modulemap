@@ -1,0 +1,6 @@
+framework module Pods_LFLiveKitDemo {
+  umbrella header "Pods-LFLiveKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
